@@ -54,18 +54,34 @@ CLI やバックエンド、見た目にもこだわったターミナル UI な
 
 <br/>
 
-## 🛠 スキル
+## 🛠 言語 & スキル
 
 <div align="center">
 
-<img src="https://go.skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&perline=6" />
+<sub><i>30+ languages · frameworks · tools</i></sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- 言語 -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,cs,go,rust&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=php,ruby,swift,kotlin,dart,bash,html,css,wasm&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=haskell,elixir,fortran,clojure,crystal,lua,scala,r,perl&perline=9" />
+
+<br/><br/>
+
+<!-- フレームワーク & ランタイム -->
+<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nodejs,express,django,flask&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,dotnet,electron,flutter,deno,bun,vite,webpack&perline=9" />
+
+<br/><br/>
+
+<!-- DB · インフラ · ツール -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,graphql,docker,kubernetes,aws&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,linux,git,github,vscode,vim,tailwind,bootstrap&perline=9" />
 
 </div>
 
@@ -94,6 +110,9 @@ CLI やバックエンド、見た目にもこだわったターミナル UI な
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxey&theme=tokyo_night" alt="profile details"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cxey&theme=tokyo_night" alt="languages"/>
+
+<br/>
+<sub><i>↑ 言語カードは GitHub の実際のコミットから自動集計（上のスキルアイコンとは別）</i></sub>
 
 <br/><br/>
 
